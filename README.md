@@ -21,4 +21,4 @@ To run the Bible-themed Snake Game, you will need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bgrmn0/snake.git
+src="https://gist.github.com/ishu3101/830b556b487de5d69690.js
